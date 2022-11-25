@@ -19,13 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('demo tests/logincase'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_OP Billing'))
+WebUI.mouseOver(findTestObject('Object Repository/Page_ROBINHome/span_OP Billing'))
 
-WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_OP Billing'))
+WebUI.click(findTestObject('Object Repository/Page_ROBINHome/span_Services'))
 
-WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_Services'))
-
-WebUI.click(findTestObject('Object Repository/Page_ROBINHome/a_OP Receipts'))
+WebUI.click(findTestObject('Object Repository/Page_ROBINHome/span_OP Receipts'))
 
 WebUI.click(findTestObject('Page_OP Receipts/a_kjukk 7uytrewq oopkmnhg'))
 

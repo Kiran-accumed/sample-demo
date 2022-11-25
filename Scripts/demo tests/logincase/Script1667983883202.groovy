@@ -23,19 +23,21 @@ WebUI.maximizeWindow()
 
 WebUI.delay(2)
 
-WebUI.navigateToUrl('http://dev-api2.santechture.com:8887/ROBIN/faces//MainPages/JHAH/Login.xhtml')
+WebUI.navigateToUrl('https://moh.accumed.sa/ROBIN/faces//MainPages/SANTECHTURE/Login.xhtml')
 
 WebUI.click(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormuserName'))
 
-WebUI.setText(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormuserName'), 'root')
+WebUI.setText(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormuserName'), 'administrator')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormpassword'), 'mM0VwRptd7w=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_ROBINLogin/input_Loading_loginFormpassword'), '94L98adiAtmdH2Pcq36NMQ==')
 
 WebUI.click(findTestObject('Object Repository/Page_ROBINLogin/label_'))
 
 WebUI.click(findTestObject('Object Repository/Page_ROBINLogin/label__1'))
 
-WebUI.click(findTestObject('Object Repository/Page_ROBINLogin/td_King Salman Abdulaziz Hospital -Riyadh'))
+WebUI.click(findTestObject('Object Repository/Page_ROBINLogin/span_King Salman Abdulaziz Hospital -Riyadh'))
 
-WebUI.click(findTestObject('Page_ROBINLogin/button_Sign In'))
+WebUI.click(findTestObject('Object Repository/Page_ROBINLogin/span_Sign In'))
+
+WebUI.maximizeWindow()
 

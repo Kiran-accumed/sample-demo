@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Move To AuditMove To Auditmoveclaim  fu_fcd25b</name>
+   <tag></tag>
+   <elementGuidId>0cd23399-ecfa-4a1c-a726-74bfddce6060</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='actionsFormInvoice:panelActions']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d677aff-29e5-4467-a664-02b5425f785b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actionsFormInvoice:panelActions</value>
+      <webElementGuid>2972b16f-37a8-4f89-b880-8a7e195d9804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-outputpanel ui-widget</value>
+      <webElementGuid>8d64d754-6aaa-4ee7-81d0-ee29778ad151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Move To AuditMove To Auditmoveclaim = function() {PrimeFaces.ab({s:&quot;actionsFormInvoice:updateInsertClaim1&quot;,f:&quot;actionsFormInvoice&quot;,u:&quot;actionsFormInvoice:updateInsertClaim1 growl actionsButtonsForm&quot;,onst:function(cfg){startAjaxLoader('MOVING TO CODING STAGE IN PROGRESS...');;},onco:function(xhr,status,args){endAjaxLoader();if(!args.validationFailed){PF('phWLTbl_widg').filter();PF('NewInvoiceWid').hide();PF('confirmationdlg').hide();}else{PF('confirmationdlg').show();} handleComplete(xhr,status,args);;},pa:arguments[0]});}Insert Visitui-buttonHide </value>
+      <webElementGuid>6ed57c2a-eea6-4cc9-8688-46d74dfef2ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actionsFormInvoice:panelActions&quot;)</value>
+      <webElementGuid>39dc7edf-e99e-4d4d-8f11-6eb78677538a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='actionsFormInvoice:panelActions']</value>
+      <webElementGuid>171ac008-8cf7-49f5-8395-fabce3263dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='actionsFormInvoice']/div</value>
+      <webElementGuid>761c2c6d-309b-4eac-8b45-f29df0232e94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No records found.'])[11]/following::div[3]</value>
+      <webElementGuid>d62255a8-b6ef-4fef-bd8c-a70ae792eeda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Response Date'])[1]/following::div[4]</value>
+      <webElementGuid>d3c8631e-b196-4804-a8a0-9aab2c920ea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[30]/div[2]/form/div</value>
+      <webElementGuid>f44648b6-ed32-413b-be74-a1208ac5691f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'actionsFormInvoice:panelActions' and (text() = concat(&quot;Move To AuditMove To Auditmoveclaim = function() {PrimeFaces.ab({s:&quot;actionsFormInvoice:updateInsertClaim1&quot;,f:&quot;actionsFormInvoice&quot;,u:&quot;actionsFormInvoice:updateInsertClaim1 growl actionsButtonsForm&quot;,onst:function(cfg){startAjaxLoader(&quot; , &quot;'&quot; , &quot;MOVING TO CODING STAGE IN PROGRESS...&quot; , &quot;'&quot; , &quot;);;},onco:function(xhr,status,args){endAjaxLoader();if(!args.validationFailed){PF(&quot; , &quot;'&quot; , &quot;phWLTbl_widg&quot; , &quot;'&quot; , &quot;).filter();PF(&quot; , &quot;'&quot; , &quot;NewInvoiceWid&quot; , &quot;'&quot; , &quot;).hide();PF(&quot; , &quot;'&quot; , &quot;confirmationdlg&quot; , &quot;'&quot; , &quot;).hide();}else{PF(&quot; , &quot;'&quot; , &quot;confirmationdlg&quot; , &quot;'&quot; , &quot;).show();} handleComplete(xhr,status,args);;},pa:arguments[0]});}Insert Visitui-buttonHide &quot;) or . = concat(&quot;Move To AuditMove To Auditmoveclaim = function() {PrimeFaces.ab({s:&quot;actionsFormInvoice:updateInsertClaim1&quot;,f:&quot;actionsFormInvoice&quot;,u:&quot;actionsFormInvoice:updateInsertClaim1 growl actionsButtonsForm&quot;,onst:function(cfg){startAjaxLoader(&quot; , &quot;'&quot; , &quot;MOVING TO CODING STAGE IN PROGRESS...&quot; , &quot;'&quot; , &quot;);;},onco:function(xhr,status,args){endAjaxLoader();if(!args.validationFailed){PF(&quot; , &quot;'&quot; , &quot;phWLTbl_widg&quot; , &quot;'&quot; , &quot;).filter();PF(&quot; , &quot;'&quot; , &quot;NewInvoiceWid&quot; , &quot;'&quot; , &quot;).hide();PF(&quot; , &quot;'&quot; , &quot;confirmationdlg&quot; , &quot;'&quot; , &quot;).hide();}else{PF(&quot; , &quot;'&quot; , &quot;confirmationdlg&quot; , &quot;'&quot; , &quot;).show();} handleComplete(xhr,status,args);;},pa:arguments[0]});}Insert Visitui-buttonHide &quot;))]</value>
+      <webElementGuid>e00e19e5-7851-4e52-a5a2-e79eb455a2e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
